@@ -1,0 +1,13 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "dataStudio": {
+    "name": "Today Connector",
+    "company": "Kevin McHugh",
+    "logoUrl": "None",
+    "addonUrl": "https://github.com/k-m-engin/today-connector",
+    "supportUrl": "https://github.com/k-m-engin/today-connector",
+    "description": "This connector can be used to include today's date in custom reports."
+  }
+}
